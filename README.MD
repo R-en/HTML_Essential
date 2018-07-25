@@ -10,10 +10,11 @@ Lessons:
 	*Controlling styling (fonts, colors, and more)
 	*Writing basic scripts
 
-To run the web pages:
-navigate to Ex_Files_HTML_EssT\site  
+To run the web pages, navigate to 
 
-and open one of the htm file with a browser. 
+Ex_Files_HTML_EssT\site  
+
+and open one of the htm files with a browser. 
 
 Here is a basic page strucutre(next.htm)
 
@@ -21,11 +22,11 @@ Here is a basic page strucutre(next.htm)
 
 Here is a tab that controls by javascript
 
-![](images/dl.PNG)
+![](images/tabsJS.PNG)
 
 Here is a Description List(dl)
 
-![](images/tabsJS.PNG)
+![](images/dl.PNG)
 
 Ren Li
 7/24/2018
