@@ -19,7 +19,7 @@ Here is a basic page strucutre(next.htm)
 
 ![](images/basicPage.PNG)
 
-Here is a tab that controlls by javascript
+Here is a tab that controls by javascript
 
 ![](images/dl.PNG)
 
