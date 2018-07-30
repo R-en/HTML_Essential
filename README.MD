@@ -1,14 +1,16 @@
-This is lessons on HTML by James Williamson(https://www.lynda.com/HTML-tutorials/HTML-Essential-Training/170427-2.html). 
-The ideas from behind was to get more used to Javascript, HTML, and CSS before jumping back to React.
+<p>This is lessons on HTML by James Williamson(https://www.lynda.com/HTML-tutorials/HTML-Essential-Training/170427-2.html). 
+The ideas from behind was to get more used to Javascript, HTML, and CSS before jumping back to React.</P>
 
-Lessons:
-	*Formatting Page Strucutres
-	*Displaying images
-	*Using nav, article, and div elements
-	*Linking to pages and downloadable content
-	*Creating lists
-	*Controlling styling (fonts, colors, and more)
-	*Writing basic scripts
+<p>Lessons:</p>
+<ul>
+	<li>Formatting Page Strucutres</li>
+	<li>Displaying images</li>
+	<li>Using nav, article, and div elements</li>
+	<li>Linking to pages and downloadable content</li>
+	<li>Creating lists</li>
+	<li>Controlling styling (fonts, colors, and more)</li>
+	<li>Writing basic scripts</li>
+</ul>
 
 To run the web pages, navigate to 
 
